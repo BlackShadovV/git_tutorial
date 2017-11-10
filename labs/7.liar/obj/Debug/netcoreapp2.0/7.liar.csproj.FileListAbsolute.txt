@@ -1,0 +1,10 @@
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\obj\Debug\netcoreapp2.0\7.liar.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\obj\Debug\netcoreapp2.0\7.liar.AssemblyInfoInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\obj\Debug\netcoreapp2.0\7.liar.AssemblyInfo.cs
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\bin\Debug\netcoreapp2.0\7.liar.deps.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\bin\Debug\netcoreapp2.0\7.liar.runtimeconfig.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\bin\Debug\netcoreapp2.0\7.liar.runtimeconfig.dev.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\bin\Debug\netcoreapp2.0\7.liar.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\bin\Debug\netcoreapp2.0\7.liar.pdb
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\obj\Debug\netcoreapp2.0\7.liar.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\7.liar\obj\Debug\netcoreapp2.0\7.liar.pdb

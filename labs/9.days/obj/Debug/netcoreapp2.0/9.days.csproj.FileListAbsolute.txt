@@ -1,0 +1,10 @@
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\bin\Debug\netcoreapp2.0\9.days.deps.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\bin\Debug\netcoreapp2.0\9.days.runtimeconfig.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\bin\Debug\netcoreapp2.0\9.days.runtimeconfig.dev.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\bin\Debug\netcoreapp2.0\9.days.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\bin\Debug\netcoreapp2.0\9.days.pdb
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\obj\Debug\netcoreapp2.0\9.days.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\obj\Debug\netcoreapp2.0\9.days.AssemblyInfoInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\obj\Debug\netcoreapp2.0\9.days.AssemblyInfo.cs
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\obj\Debug\netcoreapp2.0\9.days.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\9.days\obj\Debug\netcoreapp2.0\9.days.pdb

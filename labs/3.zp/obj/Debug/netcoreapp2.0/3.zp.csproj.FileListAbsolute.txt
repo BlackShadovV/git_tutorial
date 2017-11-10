@@ -1,0 +1,10 @@
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\bin\Debug\netcoreapp2.0\3.zp.deps.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\bin\Debug\netcoreapp2.0\3.zp.runtimeconfig.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\bin\Debug\netcoreapp2.0\3.zp.runtimeconfig.dev.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\bin\Debug\netcoreapp2.0\3.zp.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\bin\Debug\netcoreapp2.0\3.zp.pdb
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\obj\Debug\netcoreapp2.0\3.zp.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\obj\Debug\netcoreapp2.0\3.zp.AssemblyInfoInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\obj\Debug\netcoreapp2.0\3.zp.AssemblyInfo.cs
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\obj\Debug\netcoreapp2.0\3.zp.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\3.zp\obj\Debug\netcoreapp2.0\3.zp.pdb

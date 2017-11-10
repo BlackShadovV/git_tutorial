@@ -1,0 +1,10 @@
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\bin\Debug\netcoreapp2.0\4.quad.deps.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\bin\Debug\netcoreapp2.0\4.quad.runtimeconfig.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\bin\Debug\netcoreapp2.0\4.quad.runtimeconfig.dev.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\bin\Debug\netcoreapp2.0\4.quad.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\bin\Debug\netcoreapp2.0\4.quad.pdb
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\obj\Debug\netcoreapp2.0\4.quad.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\obj\Debug\netcoreapp2.0\4.quad.AssemblyInfoInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\obj\Debug\netcoreapp2.0\4.quad.AssemblyInfo.cs
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\obj\Debug\netcoreapp2.0\4.quad.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\4.quad\obj\Debug\netcoreapp2.0\4.quad.pdb

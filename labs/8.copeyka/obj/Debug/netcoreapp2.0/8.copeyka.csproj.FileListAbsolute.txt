@@ -1,0 +1,10 @@
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\obj\Debug\netcoreapp2.0\8.copeyka.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\obj\Debug\netcoreapp2.0\8.copeyka.AssemblyInfoInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\obj\Debug\netcoreapp2.0\8.copeyka.AssemblyInfo.cs
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\bin\Debug\netcoreapp2.0\8.copeyka.deps.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\bin\Debug\netcoreapp2.0\8.copeyka.runtimeconfig.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\bin\Debug\netcoreapp2.0\8.copeyka.runtimeconfig.dev.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\bin\Debug\netcoreapp2.0\8.copeyka.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\bin\Debug\netcoreapp2.0\8.copeyka.pdb
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\obj\Debug\netcoreapp2.0\8.copeyka.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\8.copeyka\obj\Debug\netcoreapp2.0\8.copeyka.pdb

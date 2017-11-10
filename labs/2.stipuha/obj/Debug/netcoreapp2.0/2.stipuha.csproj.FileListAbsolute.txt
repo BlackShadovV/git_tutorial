@@ -1,0 +1,10 @@
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\bin\Debug\netcoreapp2.0\2.stipuha.deps.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\bin\Debug\netcoreapp2.0\2.stipuha.runtimeconfig.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\bin\Debug\netcoreapp2.0\2.stipuha.runtimeconfig.dev.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\bin\Debug\netcoreapp2.0\2.stipuha.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\bin\Debug\netcoreapp2.0\2.stipuha.pdb
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\obj\Debug\netcoreapp2.0\2.stipuha.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\obj\Debug\netcoreapp2.0\2.stipuha.AssemblyInfoInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\obj\Debug\netcoreapp2.0\2.stipuha.AssemblyInfo.cs
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\obj\Debug\netcoreapp2.0\2.stipuha.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\2.stipuha\obj\Debug\netcoreapp2.0\2.stipuha.pdb

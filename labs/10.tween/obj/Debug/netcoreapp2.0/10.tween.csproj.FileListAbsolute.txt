@@ -1,0 +1,10 @@
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\obj\Debug\netcoreapp2.0\10.tween.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\obj\Debug\netcoreapp2.0\10.tween.AssemblyInfoInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\obj\Debug\netcoreapp2.0\10.tween.AssemblyInfo.cs
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\bin\Debug\netcoreapp2.0\10.tween.deps.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\bin\Debug\netcoreapp2.0\10.tween.runtimeconfig.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\bin\Debug\netcoreapp2.0\10.tween.runtimeconfig.dev.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\bin\Debug\netcoreapp2.0\10.tween.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\bin\Debug\netcoreapp2.0\10.tween.pdb
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\obj\Debug\netcoreapp2.0\10.tween.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\labs\10.tween\obj\Debug\netcoreapp2.0\10.tween.pdb
