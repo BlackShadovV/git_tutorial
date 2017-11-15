@@ -1,0 +1,3 @@
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\2.palindrom\obj\Debug\netcoreapp2.0\2.palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\2.palindrom\obj\Debug\netcoreapp2.0\2.palindrom.AssemblyInfoInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\2.palindrom\obj\Debug\netcoreapp2.0\2.palindrom.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\bin\Debug\netcoreapp2.0\1.lessons.deps.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\bin\Debug\netcoreapp2.0\1.lessons.runtimeconfig.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\bin\Debug\netcoreapp2.0\1.lessons.runtimeconfig.dev.json
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\bin\Debug\netcoreapp2.0\1.lessons.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\bin\Debug\netcoreapp2.0\1.lessons.pdb
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\obj\Debug\netcoreapp2.0\1.lessons.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\obj\Debug\netcoreapp2.0\1.lessons.AssemblyInfoInputs.cache
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\obj\Debug\netcoreapp2.0\1.lessons.AssemblyInfo.cs
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\obj\Debug\netcoreapp2.0\1.lessons.dll
+C:\Users\Slava\Documents\GitHub\git_tutorial\cycles\1.lessons\obj\Debug\netcoreapp2.0\1.lessons.pdb
